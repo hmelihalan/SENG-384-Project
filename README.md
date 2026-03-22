@@ -13,7 +13,7 @@ After the services are started, open your browser and go to:
 ![Link](./screenshots/link.png)
 
 On UI You can add people to the database using add person:
-![Add Person](./add/form.png)
+![Add Person](./add/add.png)
 
 You can edit/delete people on people page by clicking the options:
 ![Edit](./screenshots/edit.png)
