@@ -3,14 +3,14 @@
 Make sure Docker is installed and running on your system.
 
 Then run:
+![Run](./screenshots/run.png)
 
 ```bash
 docker compose up --build
 ```
 
 After the services are started, open your browser and go to:
-
-Frontend: http://localhost:5173
+![Link](./screenshots/link.png)
 
 Notes
 	•	The application runs entirely with Docker Compose.
